@@ -18,7 +18,7 @@ Just use the function senti_analysis(user, number) and use the @ of the user for
 Example: print(senti_analysis("@elonmusk", 0))
 Prints Elon's Musks latest tweet
 
-# Score
+## Score
 The score has 4 fields that are pretty self explanatory:
 *Negative
 *Neutral
